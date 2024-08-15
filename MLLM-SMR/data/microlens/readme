@@ -1,0 +1,6 @@
+In "MicroLens-50k_pairs.tsv", each row corresponds to a user ID, and the subsequent columns represent the video IDs that
+the user interacted with in chronological order. We use the "\t" delimiter to separate the user ID from the first video ID,
+and a single space to separate different video IDs within the same row.
+
+Additionally, we also provide the interaction file for MicroLens-100k (namely "MicroLens-50k_pairs.csv"), in which
+the three columns are "userID", "videoID" and "timestamp".
