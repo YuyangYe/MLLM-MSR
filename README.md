@@ -1,3 +1,3 @@
 # MLLM-SMR
 
-The code for the paper "Harnessing Multimodal Large Language Model for Sequential Multimodal Recommendation" (Under review).
+The code for the paper "Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation" (Under review).
