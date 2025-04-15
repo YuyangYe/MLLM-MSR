@@ -44,3 +44,18 @@ To evaluate the trained recommender model:
   ```bash
   python MLLM-MSR/test/test_with_llava_sft.py
   ```
+
+## Citation
+
+If you use the code of this repo, please cite our paper as,
+
+```bibtex
+@inproceedings{ye2025harnessing,
+  title={Harnessing multimodal large language models for multimodal sequential recommendation},
+  author={Ye, Yuyang and Zheng, Zhi and Shen, Yishan and Wang, Tianshu and Zhang, Hengruo and Zhu, Peijun and Yu, Runlong and Zhang, Kai and Xiong, Hui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={12},
+  pages={13069--13077},
+  year={2025}
+}
